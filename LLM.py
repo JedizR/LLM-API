@@ -53,5 +53,5 @@ while True:
     plt.figure()
     plt.plot(x, y)
     plt.grid(True)
-    plt.title(f"Plot of y = {func_name}(x)")
+    plt.title(f"Plot of y = {func_name}")
     plt.show()
